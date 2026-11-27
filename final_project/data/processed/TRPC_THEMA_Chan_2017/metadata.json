@@ -1,0 +1,19 @@
+{
+  "id": "TRPC_THEMA_Chan_2017",
+  "label": "TrpC",
+  "description": "Thermotoga maritima indole-3-glycerol phosphate synthase",
+  "readout": "Fitness",
+  "reference_pdb": "TRPC_THEMA.pdb",
+  "sequence": "MRRLWEIVEAKKKDILEIDGENLIVQRRNHRFLEVLSGKERVKIIAEFKKASPSAGDINADASLEDFIRMYDELADAISILTEKHYFKGDPAFVRAARNLTSRPILAKDFYIDTVQVKLASSVGADAILIIARILTAEQIKEIYEAAEELGMDSLVEVHSREDLEKVFSVIRPKIIGINTRDLDTFEIKKNVLWELLPLVPDDTVVVAESGIKDPRELKDLRGKVNAVLVGTSIMKAENPRRFLEEMRAWSE",
+  "three_di": "#qvvvvlvvvvvvvlvvqplvpqdfafdalqvlvllddqqfafeaeedfqfapvgggqnvpddllvvlllcqvqgqayefecrcpggvgnlvsllvsvvrhphayehedadqdlsvlssnrssphqeyeaelvvdalvslqvncvscvvsnhayayedadpvsvvspvvrdqhqhyedeqadsrprdgdpcslvvclvvrdpshayeyeddpqallvslvcrprhsyyydysnlsndpdssvrsvsnsvnrd",
+  "raw_rows": 1519,
+  "finite_singles": 1519,
+  "mapped_singles": 1519,
+  "selected_singles": 1500,
+  "mutated_positions": 80,
+  "structure_positions": 252,
+  "structure_length": 252,
+  "mask_count": 1,
+  "buried_singles": 1316,
+  "exposed_singles": 184
+}

@@ -1,0 +1,19 @@
+{
+  "id": "HEM3_HUMAN_Loggerenberg_2023",
+  "label": "HMBS",
+  "description": "Human hydroxymethylbilane synthase",
+  "readout": "Enzyme activity",
+  "reference_pdb": "HEM3_HUMAN.pdb",
+  "sequence": "MSGNGNAAATAEENSPKMRVIRVGTRKSQLARIQTDSVVATLKASYPGLQFEIIAMSTTGDKILDTALSKIGEKSLFTKELEHALEKNEVDLVVHSLKDLPTVLPPGFTIGAICKRENPHDAVVFHPKFVGKTLETLPEKSVVGTSSLRRAAQLQRKFPHLEFRSIRGNLNTRLRKLDEQQEFSAIILATAGLQRMGWHNRVGQILHPEECMYAVGQGALGVEVRAKDQDILDLVGVLHDPETLLRCIAERAFLRHLEGGCSVPVAVHTAMKDGQLYLTGGVWSLDGSDSIQETMQATIHVPAQHEDGPEDDPQLVGITARNIPRGPQLAAQNLGISLANLLLSKGAKNILDVARQLNDAH",
+  "three_di": "#################qaeaeeefepdplrvlqrvvlvvvlcvvpvshhydydydhf###################cpvvvvcqvvvvgfkykdlplsdaldhdpqkfqlakadfdqqfkfkqfapvqqvddlqpdafaaeeedsflqlqllqcvvrvsyhydydtdppvrrvccshpppnhriymdgplscvsvvnpvrgrdtddvnrgaggqsgrimtmmggpppvvvsvsslvrhdqvslllnllrsllcvllvhgslfnkgwdwdddpqkikikikgaassnpdmdidmdifgqd############qdrsrhhnnvghvrssvrssvnsnvvsvvcvvvprnvrgvnsnvvsnv#",
+  "raw_rows": 5689,
+  "finite_singles": 5689,
+  "mapped_singles": 5689,
+  "selected_singles": 1500,
+  "mutated_positions": 338,
+  "structure_positions": 361,
+  "structure_length": 361,
+  "mask_count": 49,
+  "buried_singles": 796,
+  "exposed_singles": 704
+}

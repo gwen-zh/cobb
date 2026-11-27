@@ -1,0 +1,11 @@
+{
+  "fits": 3520,
+  "predictions": 1331616,
+  "split_manifests": 40,
+  "undefined_overall": 0,
+  "undefined_buried": 0,
+  "undefined_exposed": 440,
+  "n_test_min": 359,
+  "n_test_max": 399,
+  "rank_reconstruction_max_abs_difference": 8.112759072032016e-05
+}

@@ -1,0 +1,44 @@
+{
+  "signature": "bb67349afb7dec",
+  "budgets": [
+    50,
+    100,
+    250,
+    500
+  ],
+  "seeds": [
+    17,
+    29,
+    43,
+    71,
+    97
+  ],
+  "splits": [
+    "random",
+    "position"
+  ],
+  "pca_components": 24,
+  "assays": [
+    "PHOT_CHLRE_Chen_2023",
+    "ESTA_BACSU_Nutschel_2020",
+    "TRPC_THEMA_Chan_2017",
+    "HEM3_HUMAN_Loggerenberg_2023"
+  ],
+  "main_features": [
+    "D",
+    "D+S",
+    "D+E",
+    "D+P",
+    "D+E+S",
+    "D+E+P",
+    "D+E+P+S"
+  ],
+  "additional_ridge_features": "D+E+Q",
+  "models": [
+    "Ridge",
+    "GBT",
+    "MLP"
+  ],
+  "main_fits": 3360,
+  "control_fits": 160
+}

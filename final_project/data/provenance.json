@@ -1,0 +1,20 @@
+{
+  "release": "https://zenodo.org/records/15293562/files",
+  "reference": "https://raw.githubusercontent.com/OATML-Markslab/ProteinGym/1f8de974dead8ff7501eff087b725d14a965e9f9/reference_files/DMS_substitutions.csv",
+  "archive_md5": {
+    "DMS_ProteinGym_substitutions.zip": "ca1a4d46941ef33cc972245347118c7d",
+    "ProteinGym_AF2_structures.zip": "442881616899de02cd1c1b0a57badd37"
+  },
+  "assay_sha256": {
+    "ESTA_BACSU_Nutschel_2020.csv": "5bc2144aa9c30d51f756411559916aeca781e3018519b76795c2e8975fda3382",
+    "HEM3_HUMAN_Loggerenberg_2023.csv": "0595215d5507a81c640743231413964505daba227f610b80da96a6b6ad2e7dbe",
+    "PHOT_CHLRE_Chen_2023.csv": "f73e370f79addebf48786ecfee146ac592a9024b0772c844d5d98c7e3c140530",
+    "TRPC_THEMA_Chan_2017.csv": "bccdebff61dbeee97771391ec0458fdb2b1b76ceb33320bf6397077b201a64e9"
+  },
+  "structure_sha256": {
+    "ESTA_BACSU.pdb": "79812d3ede5e4a3b3a13034863f982939fb34924272634d489327b80886da6b7",
+    "HEM3_HUMAN.pdb": "821b6de21f98a6992502f372963a8c23e0fda6d3721a1e1db300b626fb5e38b1",
+    "PHOT_CHLRE.pdb": "9533c2b325cff85e71b9e96786169cc98d9f218367623c5bf145b0887bdfc22a",
+    "TRPC_THEMA.pdb": "983ee256e21d458648b64c72aa4b4f06980ee69e8e41755c242b8cd7d2452cfa"
+  }
+}

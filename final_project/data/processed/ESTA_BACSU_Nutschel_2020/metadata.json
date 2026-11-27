@@ -1,0 +1,19 @@
+{
+  "id": "ESTA_BACSU_Nutschel_2020",
+  "label": "EstA",
+  "description": "Bacillus subtilis lipase A",
+  "readout": "Thermostability",
+  "reference_pdb": "ESTA_BACSU.pdb",
+  "sequence": "MKFVKRRIIALVTILMLSVTSLFALQPSAKAAEHNPVVMVHGIGGASFNFAGIKSYLVSQGWSRDKLYAVDFWDKTGTNYNNGPVLSRFVQKVLDETGAKKVDIVAHSMGGANTLYYIKNLDGGNKVANVVTLGGANRLTTGKALPGTDPNQKILYTSIYSSADMIVMNYLSRLDGARNVQIHGVGHIGLLYSSQVNSLIKEGLNGGGQNTN",
+  "three_di": "################################qffqeeefeaaqdaqclqvqllvlvvvvphdsvsyhydgfppnnldlvrllvvvlvvlvvscvvpvdqayeyeyaasslcnlvsnqpphdrlrryafyeyqlylnvvrnqaqaqgpdpvggrfyeqeyepqepprdlssrhhdfknydydydqyrsscsndpvnsvvvvcrsvvvmtgpd",
+  "raw_rows": 2172,
+  "finite_singles": 2172,
+  "mapped_singles": 2172,
+  "selected_singles": 1500,
+  "mutated_positions": 167,
+  "structure_positions": 212,
+  "structure_length": 212,
+  "mask_count": 32,
+  "buried_singles": 616,
+  "exposed_singles": 884
+}

@@ -1,0 +1,5 @@
+id,label,description,readout,reference_pdb,raw_rows,finite_singles,mapped_singles,selected_singles,mutated_positions,structure_positions,structure_length,mask_count,buried_singles,exposed_singles
+PHOT_CHLRE_Chen_2023,PHOT,Chlamydomonas phototropin LOV domain,Fluorescence,PHOT_CHLRE.pdb,167529,2122,2122,1500,118,118,118,12,520,980
+ESTA_BACSU_Nutschel_2020,EstA,Bacillus subtilis lipase A,Thermostability,ESTA_BACSU.pdb,2172,2172,2172,1500,167,212,212,32,616,884
+TRPC_THEMA_Chan_2017,TrpC,Thermotoga maritima indole-3-glycerol phosphate synthase,Fitness,TRPC_THEMA.pdb,1519,1519,1519,1500,80,252,252,1,1316,184
+HEM3_HUMAN_Loggerenberg_2023,HMBS,Human hydroxymethylbilane synthase,Enzyme activity,HEM3_HUMAN.pdb,5689,5689,5689,1500,338,361,361,49,796,704

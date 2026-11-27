@@ -1,0 +1,19 @@
+{
+  "id": "PHOT_CHLRE_Chen_2023",
+  "label": "PHOT",
+  "description": "Chlamydomonas phototropin LOV domain",
+  "readout": "Fluorescence",
+  "reference_pdb": "PHOT_CHLRE.pdb",
+  "sequence": "AGLRHTFVVADATLPDCPLVYASEGFYAMTGYGPDEVLGHNARFLQGEGTDPKEVQKIRDAIKKGEACSVRLLNYRKDGTPFWNLLTVTPIKTPDGRVSKFVGVQVDVTSKTEGKALA",
+  "three_di": "####fwkwkfflvdplgatqdtgpnvcvvqvddpvvrgphhpcvfdddqwdvvqvvvvvvcsvvqhkdwdwtwgahpvrdiftwgkikhfdadpvgdggmimitidgcrv########",
+  "raw_rows": 167529,
+  "finite_singles": 2122,
+  "mapped_singles": 2122,
+  "selected_singles": 1500,
+  "mutated_positions": 118,
+  "structure_positions": 118,
+  "structure_length": 118,
+  "mask_count": 12,
+  "buried_singles": 520,
+  "exposed_singles": 980
+}
